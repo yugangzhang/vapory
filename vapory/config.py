@@ -1,5 +1,5 @@
 import os
-
+##Here should add full path
 POVRAY_BINARY = ("pvengine64.exe" if os.name=='nt' else "povray")
 
 GLOBAL_SCENE_SETTINGS = {
